@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Area Rectangule</string>
+    <string name="btn">Calculate</string>
+    <string name="altura">Heigth</string>
+    <string name="base">Base</string>
+</resources>

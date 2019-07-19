@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Area Rectangulo</string>
+    <string name="btn">Calcular</string>
+    <string name="altura">Altura</string>
+    <string name="base">Base</string>
+</resources>
